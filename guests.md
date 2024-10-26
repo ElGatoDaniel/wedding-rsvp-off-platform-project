@@ -1,16 +1,16 @@
-| Name              | Number of Guests |
-| -----------       | -----------   |
-| Rylee Cherry      | 2             |
-| Aimee Howard      | 3             |
-| Carl Pacheco      | 1             |
-| Karissa Moore     | 2             |
-| Sophia Riley      | 2             |
-| Imani Stout       | 5             |
-| Yahir Nichols     | 2             |
-| Angelo Miller     | 3             |
-| Raina Velez       | 1             |
-| Duncan Forbes     | 2             |
-| Susan Sloan       | 3             |
-| Lilian Rasmussen  | 4             |
-| Julian            | 3             |
-| Maxibon           | 5 	          |
+Name              | Number of guests
+------------------- | -------------------
+Rodrigo Chávez      | 2
+Ana Hernández       | 3
+Carlos Paredes      | 1
+Karina Morales      | 2
+Sofía Ramírez       | 2
+Inés Solano         | 5
+Yahir Núñez         | 2
+Ángel Muñoz         | 3
+Reina Velázquez     | 1
+Daniel Fernández    | 2
+Susana Salinas      | 3
+Liliana Rodríguez   | 4
+Julián Gómez        | 3
+Maximiliano Torres  | 5
